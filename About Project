@@ -1,0 +1,11 @@
+Road Accident Analysis Using Car Accidents Dataset
+Objective: To identify distinct patterns of road accidents within the dataset and leverage these insights to formulate targeted safety measures.
+Overview:
+This project, conducted as part of my master’s program at Kent State University, delves into the analysis of a comprehensive dataset on car accidents. The primary goal was to uncover meaningful patterns and trends that could inform the development of targeted safety measures aimed at reducing road accidents.
+Key Highlights:
+	•	Data Cleaning & Preprocessing: Applied data wrangling techniques to handle missing values, outliers, and inconsistencies, ensuring the dataset was primed for analysis.
+	•	Exploratory Data Analysis (EDA): Performed in-depth EDA to identify significant patterns, such as accident hotspots, time-of-day trends, and weather-related accident frequency.
+	•	Pattern Recognition: Leveraged statistical analysis and visualization techniques to extract key insights, including correlations between accident severity and external factors like road conditions and driver behavior.
+	•	Recommendations: Based on the analysis, proposed actionable safety measures to address the identified risk factors, with a focus on preventing accidents during high-risk periods and conditions.
+Tools & Technologies: Python, Pandas, Matplotlib, Seaborn, Scikit-learn
+This project not only enhanced my analytical skills but also provided valuable insights into road safety, contributing to my understanding of how data-driven approaches can be applied to real-world problems.
